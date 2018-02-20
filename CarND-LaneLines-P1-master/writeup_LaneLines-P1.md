@@ -27,7 +27,7 @@ At last the line detected image was added on top of the original image to visual
 
 Some key stage of the processing are listed as follows:
 
-Grayscale image:
+Grayscale image:  
 ![grayscale](images/2018/02/grayscale.png)
 
 Edged detected image (The output of canny transformation with ROI mask added):
