@@ -33,10 +33,10 @@ Grayscale image:
 Edged detected image (The output of canny transformation with ROI mask added):
 ![canny](images/2018/02/canny.png)
 
-Line detected image (Hough transformation):
+Line detected image (Hough transformation):  
 ![hough](images/2018/02/hough.png)
 
-Image overlay:
+Image overlay:  
 ![imageOverlay](images/2018/02/imageoverlay.png)
 
 #### Version II
